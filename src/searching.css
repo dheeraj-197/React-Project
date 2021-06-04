@@ -1,0 +1,34 @@
+h1{
+    color:#fff !important;
+}
+.t_c{
+    width: 70%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.in_txt{
+
+    width: 50%;
+    float: left;
+    height: 40px;
+    border: none;
+    font-size: x-large;
+    outline: none;
+
+}
+.content{
+    border: solid 2px;
+    min-height: 300px;
+    padding: 30px;
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 500px;
+}
+ul{
+    list-style: none;
+}
